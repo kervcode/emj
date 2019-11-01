@@ -12,7 +12,7 @@ body {
 }
 
 .header-logo {
-    width: 100px;
+    width: 110px;
     float: left;
 }
 
@@ -56,7 +56,7 @@ body {
 
 .slogan {
     text-transform: uppercase;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 700;
     padding-top: 360px;
 }
@@ -64,14 +64,28 @@ body {
 .highlight {
     font-size: 20px;
     padding: 10px 200px;
+    letter-spacing: 3px;
+    line-height: 25px;
+}
+
+.services {
+    width: 100%;
+    padding: 30px 0;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #093868;
+    /* border-bottom: 1px solid #fff ; */
 }
 
 .care {
     float: left;
     width: 33.33%;
-    padding: 40px 10px;
+    padding: 100px 10px;
     text-align: center;
-    line-height: 1.6;
+    line-height: 1.8;
+    letter-spacing: 3px;
 }
 
 /* Clear floats after the columns */
